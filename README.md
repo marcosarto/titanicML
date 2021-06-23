@@ -1,6 +1,6 @@
 # titanicML
 
-## Relazione visualizzabile : https://marcosarto.github.io/titanicML/
+## Relazione visualizzabile : https://marcosarto.github.io/titanicML/presentation.pdf
 
 ### Competizione kaggle : [Titanic - Machine Learning from Disaster][titanic]
 
